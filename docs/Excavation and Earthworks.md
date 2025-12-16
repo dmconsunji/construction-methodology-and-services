@@ -1,0 +1,1 @@
+Defines the process for site clearing, excavation, and grading. Includes soil testing, equipment selection, safety measures for trenching, and disposal of excavated material. Ensures compliance with geotechnical recommendations and environmental stand
