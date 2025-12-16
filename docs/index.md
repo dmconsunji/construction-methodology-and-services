@@ -5,7 +5,6 @@ Welcome to the **construction-methodology-and-services wiki!**
 A comprehensive knowledge base on construction methodologies in the **Philippines**, best practices, and service workflows. Includes guidelines, process documentation, and technical references for project execution and quality assurance.  
 
 
-[Concrete Slab Pouring](Concrete Slab Pouring.md)
-
-[Escavation and Earthworks](Escavation and Eathworks.md)
+-[Concrete Slab Pouring](Concrete Slab Pouring.md)
+-[Escavation and Earthworks](Escavation and Eathworks.md)
 
