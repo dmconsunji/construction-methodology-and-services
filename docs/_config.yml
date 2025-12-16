@@ -1,0 +1,7 @@
+remote_theme: pmarsceill/just-the-docs
+title: Construction Methodology & Services — Philippines
+description: Practical construction procedures for the Philippines.
+
+# Tell the theme to load our CSS override
+extra_css:
+  - assets/css/custom.css
