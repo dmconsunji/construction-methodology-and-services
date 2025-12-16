@@ -1,6 +1,13 @@
 <!-- Hero image (kept from original) -->
 ![Construction methodology hero image](https://github.com/user-attachments/assets/2f188e0c-cda0-4ab1-b186-df234606e0ab)
 
+---
+title: Construction Methodology & Services — Philippines
+layout: default
+---
+
+<!-- Paste your existing docs/index.md content below this front matter -->
+
 # Construction Methodology & Services — Philippines
 
 Welcome to the **Philippine Construction Methodology & Services WIKI**
